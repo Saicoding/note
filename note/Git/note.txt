@@ -1,1 +1,2 @@
 1.关联远程库  $ git remote add origin git@github.com:Saicoding/note.git
+2.推送  $ git push -u origin master(第一次)  $ git push origin master
