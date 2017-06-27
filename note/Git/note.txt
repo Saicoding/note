@@ -1,1 +1,1 @@
-1.¹ØÁªÔ¶³Ì¿â  $ git remote add origin git@github.com:Saicoding/note.git
+1.å…³è”è¿œç¨‹åº“  $ git remote add origin git@github.com:Saicoding/note.git
