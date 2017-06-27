@@ -2,4 +2,6 @@
 
 2.推送  $ git push -u origin master(第一次)  $ git push origin master
 
-3.创建分支 $ git checkout -b dev.
+3.创建分支 $ git checkout -b dev
+
+4.删除远程分支 $ git push origin : dev
