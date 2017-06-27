@@ -16,3 +16,7 @@ $ git checkout -b dev
 ```
 $ git push origin : dev
 ```
+* 库合并
+```
+$ git pull --rebase origin master
+```
