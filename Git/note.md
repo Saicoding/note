@@ -20,3 +20,7 @@ $ git push origin : dev
 ```
 $ git pull --rebase origin master
 ```
+* 克隆库
+```
+$ git clone https://github.com/angular/quickstart.git yourProjectDir
+```
