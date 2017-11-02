@@ -1,4 +1,4 @@
-# 怎样使用 GitHub[(https://www.zhihu.com/question/20070065/answer/16021641)]
+# [怎样使用 GitHub](https://www.zhihu.com/question/20070065/answer/16021641)
 
 # 常用语句
 * 关联远程库
